@@ -1,4 +1,4 @@
-# arrays are lists of things
+# arrays are lists of things (data structure)
 
 array = [1,1.0,'1',True]
 
