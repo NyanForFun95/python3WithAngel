@@ -1,3 +1,5 @@
+# sometimes is usefull to run code multiple times, so we use loops for that
+
 array = []
 
 for i in range(100):  # loops 100 times
