@@ -1,4 +1,4 @@
-print(type(1))    # int     this is an intiger number
+print(type(1))    # int     this is an integer number
 
 print(type(1.0))  # float   this is any number
 
